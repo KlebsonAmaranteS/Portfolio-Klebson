@@ -29,7 +29,7 @@ Criação de um portfólio para exibir algumas das minhas habilidades.</p>
 
 A ideia do projeto era desenvolver um portfólio usando HTML, CSS e JavaScript.
 
-- [Acesse aqui o projeto online](https://https://klebsonamarantes.github.io/Portfolio-Klebson/)
+- [Acesse aqui o projeto online](https://klebsonamarantes.github.io/Portfolio-Klebson/)
 
 ## :memo: Licença
 
