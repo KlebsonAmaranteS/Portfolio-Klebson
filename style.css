@@ -16,9 +16,11 @@ body {
   margin: 0 auto;
 }
 
+
 .flex {
   display: flex;
 }
+
 
 .btn-contato button {
   padding: 10px 40px;
