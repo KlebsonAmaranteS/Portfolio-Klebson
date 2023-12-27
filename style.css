@@ -16,11 +16,9 @@ body {
   margin: 0 auto;
 }
 
-
 .flex {
   display: flex;
 }
-
 
 .btn-contato button {
   padding: 10px 40px;
@@ -149,6 +147,12 @@ header nav.menu-desktop ul li {
   z-index: 88888;
   display: none;
 }
+
+.overlay a{
+  color: white;
+  text-decoration: none;
+}
+
 
 /* ESTILO DO TOPO DO SITE */
 section.topo-do-site {
@@ -308,11 +312,6 @@ section.portfolio .flex {
   color: #fff;
   opacity: 0;
   transition: .5s;
-}
-
-.overlay a{
-  color: white;
-  text-decoration: none;
 }
 
 .overlay:hover {
